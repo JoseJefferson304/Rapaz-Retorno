@@ -1,0 +1,14 @@
+C:\Users\20201011110008\projetos\Web-Application\Servico\bin\Debug\Servico.dll
+C:\Users\20201011110008\projetos\Web-Application\Servico\bin\Debug\Servico.pdb
+C:\Users\20201011110008\projetos\Web-Application\Servico\bin\Debug\Modelo.dll
+C:\Users\20201011110008\projetos\Web-Application\Servico\bin\Debug\Persistencia.dll
+C:\Users\20201011110008\projetos\Web-Application\Servico\bin\Debug\EntityFramework.dll
+C:\Users\20201011110008\projetos\Web-Application\Servico\bin\Debug\Modelo.pdb
+C:\Users\20201011110008\projetos\Web-Application\Servico\bin\Debug\Persistencia.pdb
+C:\Users\20201011110008\projetos\Web-Application\Servico\bin\Debug\Persistencia.dll.config
+C:\Users\20201011110008\projetos\Web-Application\Servico\bin\Debug\EntityFramework.xml
+C:\Users\20201011110008\projetos\Web-Application\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\20201011110008\projetos\Web-Application\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\20201011110008\projetos\Web-Application\Servico\obj\Debug\Servico.csproj.CopyComplete
+C:\Users\20201011110008\projetos\Web-Application\Servico\obj\Debug\Servico.dll
+C:\Users\20201011110008\projetos\Web-Application\Servico\obj\Debug\Servico.pdb
